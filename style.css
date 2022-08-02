@@ -1,0 +1,76 @@
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb
+}
+
+.container1 {
+    background-color: #1f2937 ;
+}
+
+.website {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+.random {
+   font-size: 18px; 
+   color: #e5e7eb;
+}
+.signup1 {
+    background-color: #3882f6;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    padding: 5px;
+    
+}
+
+.info1 {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937
+}
+
+.quote {
+    font-size: 36px;
+    font: light italic;
+    color: #1f2937;
+}
+.author {
+    font-weight: 900;
+}
+
+.quotesection {
+    background-color: #e5e7eb;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.content3 {
+    background-color: #3882f6 ;
+}
+
+.call   {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.now {
+    color: white;
+}
+
+.signup2 {
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    padding: 5px;
+    background-color: #3882f6;
+    border-color: white;
+}
